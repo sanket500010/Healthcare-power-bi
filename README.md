@@ -1,4 +1,5 @@
 # HealthCare-Dashboard
+<img width="632" alt="image" src="https://github.com/dedhiaraj2002/HealthCare-Dashboard/assets/58104026/ce46c10b-43f6-4cee-93c2-dd3f9b9e17c1">
 
 Healthcare Power BI Dashboard
 The Healthcare Power BI Dashboard project is designed to provide a comprehensive data visualization solution using Power BI. The primary objective of this project is to offer an interactive and insightful tool for Hospital Management Teams to track and analyze various aspects of patient visits, instrument availability, revenue generated across different age groups, appointment waiting times, and feedback on medical prescriptions and hospital services.
@@ -34,5 +35,5 @@ This project offers:
 
 The Healthcare Power BI Dashboard project is aimed at aiding Hospital Management Teams in efficiently managing and analyzing critical data for better decision-making processes.
 
-<img width="632" alt="image" src="https://github.com/dedhiaraj2002/HealthCare-Dashboard/assets/58104026/ce46c10b-43f6-4cee-93c2-dd3f9b9e17c1">
+
 
